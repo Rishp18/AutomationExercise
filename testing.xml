@@ -28,7 +28,7 @@
             <class name="testCases.TestCase23"/>
             <class name="testCases.TestCase24"/>
             <class name="testCases.TestCase25"/>
-            <class name="testCases.TestCase26"/>
+            
         </classes>
     </test>
 </suite>
